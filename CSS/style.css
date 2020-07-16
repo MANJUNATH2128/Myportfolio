@@ -146,6 +146,10 @@
   width: 50%;
   margin: 0 auto;
 }
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
 
 
 /*End of certificate Area*/
