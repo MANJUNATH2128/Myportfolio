@@ -128,8 +128,8 @@
 .site-main .projects .about-title2 h2 > span{
   display: block;
   font: normal bold 40px/ 50px var(--roboto);
-  letter-spacing: 15px;
-  padding: 0rem 0rem;
+  letter-spacing: 13px;
+  padding: 0rem 2rem;
 }
 .site-main .projects .about-title2 .paragraph2 .ul{
   padding: .4rem 0;
